@@ -31,7 +31,6 @@ $ python tic_tac_toe.py
 Welcome to Tic-Tac-Toe!
 Choose your move by entering row and column numbers (0-2).
 You are 'X', and the AI is 'O'.
-
    |   |  
 ---------
    |   |  
@@ -41,21 +40,17 @@ You are 'X', and the AI is 'O'.
 YOUR MOVE:
 Enter row (0-2): 1
 Enter column (0-2): 1
-
    |   |  
 ---------
    | X |  
 ---------
    |   |  
-
 AI is making a move...
-
    | O |  
 ---------
    | X |  
 ---------
    |   |  
-
 ...
 AI WINS!
 ```
